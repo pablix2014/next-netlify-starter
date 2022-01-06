@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="pablix" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          ablo <code>pages/index.js</code>
         </p>
       </main>
 
